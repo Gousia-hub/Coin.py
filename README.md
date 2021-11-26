@@ -1,2 +1,2 @@
 # Coin.py
-Program using Oops.
+Program using Oops(classes and methods).
